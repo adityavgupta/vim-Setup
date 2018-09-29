@@ -8,3 +8,4 @@ Current syntax format indicator.
 Type of file being written.
 Filename.
 Line number in the margins.
+Auto-completion using Tab key.
