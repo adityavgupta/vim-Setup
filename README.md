@@ -1,7 +1,7 @@
 # vim-Setup
 Aditya's vim setup.
 
-# A few features included are:
+# A few features included are: #
 - Automatic indentation.
 - Easy file search with NERDTree
 - Automatic Bracket, Parantheses, Curly Brackets etc completion.
