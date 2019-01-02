@@ -15,9 +15,10 @@ Aditya's vim setup.
 - Molokai theme with syntax highlighting.
 
 ## Instructions to run
-- Clone the repo https://github.com/adityavgupta/vim-Setup.git
-- Go into the repo directory cd ./vim-Setup
+- Clone the repo `https://github.com/adityavgupta/vim-Setup.git`
+- Go into the repo directory `cd ./vim-Setup`
 - Run the shell script
+```
 chmod +x run.sh
 ./run.sh
-
+```
