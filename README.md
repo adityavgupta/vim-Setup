@@ -13,3 +13,11 @@ Aditya's vim setup.
 - Auto-completion using Tab key.
 - Mouse support
 - Molokai theme with syntax highlighting.
+
+## Instructions to run
+- Clone the repo https://github.com/adityavgupta/vim-Setup.git
+- Go into the repo directory cd ./vim-Setup
+- Run the shell script
+chmod +x run.sh
+./run.sh
+
