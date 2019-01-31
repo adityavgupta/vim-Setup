@@ -3,7 +3,7 @@ Aditya's vim setup.
 
 ## A few features included are:
 - Automatic indentation.
-- Easy file search with NERDTree
+- Easy file search in a file tree forat with NERDTree
 - Automatic Bracket, Parantheses, Curly Brackets etc completion.
 - Line and indentation number.
 - Relative line number. 
@@ -22,3 +22,5 @@ Aditya's vim setup.
 chmod +x run.sh
 ./run.sh
 ```
+- For instructions on setting up vundle, the vim plugin manager, go to https://linuxhint.com/vim-vundle-tutorial/
+- Vundle lets you easily set up features such as NERDTree, colorschemes etc.
